@@ -19,5 +19,10 @@ In 2005, the Linux kernel development community lost their free access to BitKee
 * `git commit`: **Save Game** (Lock in your progress).
 * `git push`: **Cloud Sync** (Upload to the heavens).
 
+### Two Types of Local Setup 
+## Fresh New Local Repo setup [ without Remote Repo connection ]
+## Cloning Already Created Repo which is Present in Remote Repo
+NOTE: Only Start and End Part of commands Various
+
 ---
 *Created for the Dev Community.*
