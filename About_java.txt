@@ -1,0 +1,7 @@
+Java is a well know Programming language 
+Java is one of the Backbone of Entire current Internet
+
+Like JS java can also be used for Server side process , mobile side process , backend and frontend , even for command line usages etc
+
+So Learn only Java
+
